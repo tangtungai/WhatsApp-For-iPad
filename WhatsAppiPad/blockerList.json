@@ -1,0 +1,11 @@
+[
+    {
+        "trigger": {
+            "url-filter": "*img/qr-video-*",
+            "resource-type": ["image"]
+        },
+        "action": {
+            "type": "block"
+        }
+    }
+]
